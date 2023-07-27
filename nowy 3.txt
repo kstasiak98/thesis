@@ -1,0 +1,50 @@
+<instructionsList>
+    <instruction>
+        <content>Dyrektor generalny (CEO)</content>
+        <roles>
+            <role>Zatwierdza ogólną politykę bezpieczeństwa firmy.</role>
+            <role>Ma dostęp do najwyższego poziomu informacji biznesowych.</role>
+            <role>Ustanawia strategiczne kierunki w zakresie bezpieczeństwa.</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Dyrektor ds. technologii informacyjnych (CTO/CIO)</content>
+        <roles>
+            <role>Tworzy strategiczną politykę bezpieczeństwa IT.</role>
+            <role>Nadzoruje wszystkie działania związane z technologią w firmie.</role>
+            <role>Ma dostęp do wszystkich informacji technicznych na najwyższym poziomie.</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Kierownik ds. bezpieczeństwa (CISO)</content>
+        <roles>
+            <role>Opracowuje szczegółowe polityki i procedury bezpieczeństwa.</role>
+            <role>Dostarcza informacje na temat stanu bezpieczeństwa do CTO/CIO.</role>
+            <role>Nadzoruje zespół bezpieczeństwa.</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Administrator systemu</content>
+        <roles>
+            <role>Implementuje polityki i procedury ustalone przez CISO.</role>
+            <role>Zajmuje się bezpośrednio utrzymaniem bezpieczeństwa systemów.</role>
+            <role>Ma dostęp do konkretnych systemów, aby monitorować i utrzymywać ich bezpieczeństwo.</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Specjalista ds. bezpieczeństwa sieci</content>
+        <roles>
+            <role>Implementuje polityki i procedury dotyczące bezpieczeństwa sieci.</role>
+            <role>Monitoruje bezpieczeństwo sieci i raportuje do CISO.</role>
+            <role>Ma dostęp do informacji i narzędzi związanych z bezpieczeństwem sieci.</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Pracownik biurowy</content>
+        <roles>
+            <role>Przestrzega polityki bezpieczeństwa w swojej codziennej pracy.</role>
+            <role>Nie ma dostępu do systemów i danych, które nie są niezbędne do wykonania jego zadań.</role>
+            <role>Zgłasza problemy z bezpieczeństwem do odpowiedniego personelu IT.</role>
+        </roles>
+    </instruction>
+</instructionsList>

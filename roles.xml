@@ -1,0 +1,16 @@
+<Roles>
+    <Role name="administrator">
+        <Instruction>Instruction 1.1</Instruction>
+        <Instruction>Instruction 1.2</Instruction>
+    </Role>
+    <Role name="user">
+        <Instruction>Instruction 2.1</Instruction>
+        <Instruction>Instruction 2.2</Instruction>
+    </Role>
+    <Role name="director">
+        <Instruction>Instruction 3.1</Instruction>
+        <Instruction>Instruction 3.2</Instruction>
+		<Instruction>Instruction 1.2</Instruction>
+		<Instruction>Instruction 2.2</Instruction>
+    </Role>
+</Roles>

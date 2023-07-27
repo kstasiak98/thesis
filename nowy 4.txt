@@ -1,0 +1,14 @@
+1. Zatwierdza ogólną politykę bezpieczeństwa firmy.  Roles: CEO
+2. Ma dostęp do najwyższego poziomu informacji biznesowych. Roles: CEO
+3. Ustanawia strategiczne kierunki w zakresie bezpieczeństwa. Roles: CEO
+4. Nadzoruje wszystkie działania związane z technologią w firmie. Roles: CEO, CTO/CIO,
+5. Ma dostęp do wszystkich informacji technicznych na najwyższym poziomie. Roles: CTO/CIO
+6. Opracowuje szczegółowe polityki i procedury bezpieczeństwa. Roles: CTO/CIO, CISO
+7. Dostarcza informacje na temat stanu bezpieczeństwa do CTO/CIO. Roles: CISO
+8. Nadzoruje zespół bezpieczeństwa. Roles: CISO
+9. Implementuje polityki i procedury ustalone przez CISO. Roles: Administrator
+10. Zajmuje się bezpośrednio utrzymaniem bezpieczeństwa systemów. Roles: Administrator
+11. Ma dostęp do konkretnych systemów, aby monitorować i utrzymywać ich bezpieczeństwo. Roles:Administrator
+12. Przestrzega polityki bezpieczeństwa w swojej codziennej pracy. Roles: CEO, CTO/CIO, CISO, Administrator, Pracownik
+13. Nie ma dostępu do systemów i danych, które nie są niezbędne do wykonania jego zadań. Roles: Pracownik
+14. Zgłasza problemy z bezpieczeństwem do odpowiedniego personelu IT. Roles: CEO, CTO/CIO, CISO, Pracownik

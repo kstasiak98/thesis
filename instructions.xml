@@ -1,0 +1,96 @@
+<instructionsList>
+    <instruction>
+        <content>Zatwierdza ogólną politykę bezpieczeństwa firmy.</content>
+        <roles>
+            <role>CEO</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Ma dostęp do najwyższego poziomu informacji biznesowych.</content>
+        <roles>
+            <role>CEO</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Ustanawia strategiczne kierunki w zakresie bezpieczeństwa.</content>
+        <roles>
+            <role>CEO</role>
+        </roles>
+    </instruction>
+    <instruction>
+        <content>Nadzoruje wszystkie działania związane z technologią w firmie.</content>
+        <roles>
+            <role>CEO</role>
+            <role>CTO/CIO</role>
+        </roles>
+    </instruction>
+	<instruction>
+		<content>Ma dostęp do wszystkich informacji technicznych na najwyższym poziomie.</content>
+		<roles>
+			<role>CTO/CIO</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Opracowuje szczegółowe polityki i procedury bezpieczeństwa.</content>
+		<roles>
+			<role>CTO/CIO</role>
+			<role>CISO</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Dostarcza informacje na temat stanu bezpieczeństwa do CTO/CIO.</content>
+		<roles>
+			<role>CISO</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Nadzoruje zespół bezpieczeństwa.</content>
+		<roles>
+			<role>CISO</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Implementuje polityki i procedury ustalone przez CISO</content>
+		<roles>
+			<role>Administrator</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Zajmuje się bezpośrednio utrzymaniem bezpieczeństwa systemów.</content>
+		<roles>
+			<role>Administrator</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Ma dostęp do konkretnych systemów, aby monitorować i utrzymywać ich bezpieczeństwo.</content>
+		<roles>
+			<role>Administrator</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Przestrzega polityki bezpieczeństwa w swojej codziennej pracy.</content>
+		<roles>
+			<role>CISO</role>
+			<role>CEO</role>
+			<role>CTO/CIO</role>
+			<role>Administrator</role>
+			<role>Pracownik</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Nie ma dostępu do systemów i danych, które nie są niezbędne do wykonania jego zadań.</content>
+		<roles>
+			<role>Pracownik</role>
+		</roles>
+	</instruction>
+	<instruction>
+		<content>Zgłasza problemy z bezpieczeństwem do odpowiedniego personelu IT.</content>
+		<roles>
+			<role>CISO</role>
+			<role>CEO</role>
+			<role>CTO/CIO</role>
+			<role>Pracownik</role>
+		</roles>
+	</instruction>
+	
+</instructionsList>
